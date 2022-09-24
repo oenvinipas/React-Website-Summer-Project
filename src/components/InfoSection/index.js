@@ -20,6 +20,7 @@ const InfoSection = ({ lightBg, id, imgStart, topLine, lightText, headLine, dark
     <>
         <InfoContainer lightBg={lightBg} id={id}>
             <InfoWrapper>
+                {/* fkdalfda f;daj kf;la f */}
                 <InfoRow imgStart={imgStart}>
                     <Column1>
                         <TextWrapper>
